@@ -60,8 +60,3 @@
 - GitHub: [Stepa555](https://github.com/Stepa555)
 - Email: stepan.apsalyamov@gmail.com
 - Telegram: @Stepap445
-
-## 📫 Контакты
-
-**Ваше имя**  
-[Telegram](t.me/Stepap445) | [Email](stepan.apsalyamov@gmail.com)
