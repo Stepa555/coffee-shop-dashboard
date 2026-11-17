@@ -56,7 +56,10 @@
 - `dashboard.pbix` — исходный файл Power BI (4 страницы)
 - Скриншоты всех страниц дашборда
 
----
+## 📬 Контакты
+- GitHub: [Stepa555](https://github.com/Stepa555)
+- Email: stepan.apsalyamov@gmail.com
+- Telegram: @Stepap445
 
 ## 📫 Контакты
 
